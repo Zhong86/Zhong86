@@ -1,4 +1,14 @@
-## Hi there 👋
+## Zhong
+
+### About Me
+- Full-Stack Developer but prefers Backend Development.
+- Started learning AI Agentic Development.
+- I really enjoy creating automation with AI agents.
+
+### Current Occupation: Intern
+- Full-Stack Developer: Laravel
+- AI Agent Engineer: LangGraph
+
 
 <!--
 **Zhong86/Zhong86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
